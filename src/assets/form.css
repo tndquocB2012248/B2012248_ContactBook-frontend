@@ -1,0 +1,12 @@
+.labelLayout, .buttonLayout {
+    margin: .4rem 0;
+}
+
+.checkInput {
+    margin-top: 0.4rem;
+}
+
+.buttonLayout, .iconLayout {
+    margin-right: 0.5rem;
+}
+
